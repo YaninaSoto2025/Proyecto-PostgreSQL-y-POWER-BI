@@ -1,3 +1,4 @@
+<img src="ruta/de/la/imagen.png" alt=" logo the best" width="500" height="300">
 
 # Proyecto-PostgreSQL-y-POWER-BI
 Proyecto propio sobre un restaurante llamado " The Best " utilizando PostgreSQL y PowerBI
