@@ -1,3 +1,4 @@
+https://github.com/YaninaSoto2025/Proyecto-PostgreSQL-y-POWER-BI/blob/main/the_best_restaurant.jpeg
 # Proyecto-PostgreSQL-y-POWER-BI
 Proyecto propio sobre un restaurante llamado " The Best " utilizando PostgreSQL y PowerBI
 
