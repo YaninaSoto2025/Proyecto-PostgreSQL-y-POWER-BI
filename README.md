@@ -1,4 +1,4 @@
-<img src="https://github.com/YaninaSoto2025/Proyecto-PostgreSQL-y-POWER-BI/blob/main/the_best_restaurant.jpeg" alt=" logo the best" width="500" height="300">
+<img src="https://github.com/YaninaSoto2025/Proyecto-PostgreSQL-y-POWER-BI/blob/main/the_best_restaurant.jpeg" alt=" logo the best" width="500" height="500">
 
 # Proyecto-PostgreSQL-y-POWER-BI
 Proyecto propio sobre un restaurante llamado " The Best " utilizando PostgreSQL y PowerBI
